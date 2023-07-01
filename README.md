@@ -1,5 +1,5 @@
 ## about
-This repository generates visualized figures on Twitter [@ks0vis](https://twitter.com/ks0vis)
+This repository generates visualized figures on [@ks0vis](https://twitter.com/ks0vis)
 
 ## programs
 |Date Uploaded|Title|Programs|
