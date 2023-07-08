@@ -4,6 +4,7 @@ This repository generates visualized figures on [@ks0vis](https://twitter.com/ks
 ## programs
 |Date Uploaded|Title|Programs|
 |:---:|:---|:---|
+|2023-07-08|Stock/Flow and Price of Bitcoin|20230708_Stock_to_Flow_Bitcoin.ipynb|
 |2023-07-07|Starting/Ending time of investment and Annualized Return|20230707_Start_End_and_Return.ipynb|
 |2023-07-03|Starting time of investment and Annualized Return|20230703_Start_and_Return.ipynb|
 |2023-02-09|Congrats LeBron James!|20230209_NBA_Points_Ranking.ipynb|
