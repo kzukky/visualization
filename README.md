@@ -4,6 +4,7 @@ This repository generates visualized figures on [@ks0vis](https://twitter.com/ks
 ## programs
 |Date Uploaded|Title|Programs|
 |:---:|:---|:---|
+|2023-07-11|Market Value Changes of Japan National Football Players Before and After FIFA World Cup 2022|20230711_Football_Market_Value.ipynb|
 |2023-07-10|Stock/Flow and Market Capitalization of Precious Metals and Bitcoin|20230710_Stock_to_Flow_Comparison.ipynb|
 |2023-07-08|Stock/Flow and Price of Bitcoin|20230708_Stock_to_Flow_Bitcoin.ipynb|
 |2023-07-07|Starting/Ending time of investment and Annualized Return|20230707_Start_End_and_Return.ipynb|
